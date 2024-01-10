@@ -730,17 +730,16 @@ header {
         display: none; 
     }
 
-    .item3 img{
-        position: absolute;
-        width: 200px;
-        height: 250px;
-        text-align: justify;
-        border-radius: 10px;
-        padding: 20px;
-        transition: 0.5s;
-        left: calc(50% - 110px);
-        top: 0px;
-    }
+   .item3 img {
+    position: absolute;
+    width: 280px;
+    height: 370px;
+    text-align: justify;
+    border-radius: 10px;
+    padding: 20px;
+    transition: 0.5s;
+    left: -4.2vh;
+}
     
     
     
